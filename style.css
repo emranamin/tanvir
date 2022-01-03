@@ -1,0 +1,21 @@
+p{
+    color: red;
+    background-color: bisque;
+    border: 10 px double green;
+    font-size:180%;
+}
+h1{
+    border: 5px solid yellow;
+}
+img{
+    height: 30%;
+    width: 40%;
+    border: 10px solid blue;
+    padding: 2% 2%;
+}
+caption{
+    font-size: 190%;
+}
+h2{
+    border-left: 5px yellow solid;
+}
